@@ -1,5 +1,4 @@
 # HelloWorld
-baby steps
 
 Cheers!
 
